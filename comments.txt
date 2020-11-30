@@ -1,0 +1,10 @@
+Question 1
+You are on the right track, but this is not correct.
+You did not use the string format method in you print statements.
+
+Question 2
+This program is incomplete.
+You did not use the string format method in you print statements.
+
+Question 3
+Why is this file blank?
